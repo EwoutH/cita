@@ -1,6 +1,7 @@
 # <img src="https://github.com/cryptape/assets/blob/master/CITA-logo.png?raw=true" width="256">
 
 [![Build Status](https://travis-ci.com/cryptape/cita.svg?branch=develop)](https://travis-ci.com/cryptape/cita)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/cryptape/cita?branch=master&svg=true)](https://ci.appveyor.com/project/cryptape/cita)
 
 English | [简体中文](./README-CN.md)
 
