@@ -22,8 +22,6 @@ install:
     - cargo -vV                       # Prints Cargo version
     - rustup target add %target%      # Adds target platform to Rust
 
-build: false
-
 build_script:
     - cargo build --release --target=%target%      # Builds file defined in Cargo.toml (default main.rs)
 
